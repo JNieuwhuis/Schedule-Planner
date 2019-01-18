@@ -1,0 +1,26 @@
+shower - 15
+read Head first Java book - 180
+relax - 30
+lunch walk - 30
+lunch - 15
+clean - 60
+make code for assignments - 270
+consult teacher - 30
+group meeting - 30
+lecture - 150
+look up information - 90
+write pseudo code - 30
+help colleague - 30
+stare out the window - 15
+read assignment - 30
+read related book - 120
+ask colleague for help - 30
+be angry at code - 30
+yell at code - 15
+be happy with code - 30
+get tea - 5
+get some more tea - 5
+daily stand up - 15
+toilet - 5
+have existential crisis - 10
+planning session - 20
